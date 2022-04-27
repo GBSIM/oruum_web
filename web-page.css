@@ -180,6 +180,12 @@ label[for="menu-switch"]:hover {
     }
 }
 
+@media (max-width: 500px) {
+    h1 {
+        font-size: 1.5rem;
+    }
+}
+
 .introduction {
     height: calc(100vh - 80px);
 }
