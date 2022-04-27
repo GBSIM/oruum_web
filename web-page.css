@@ -147,6 +147,7 @@ label[for="menu-switch"] {
 
 label[for="menu-switch"] {
     z-index: 2;
+    position: fixed;
 }
 
 label[for="menu-switch"]:hover {
